@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1763833435 source:c:\users\angel\desktop\ayed\listas_pilas_colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pila.h"
+	"cola.h"
+
+1763824419 source:c:\users\angel\desktop\ayed\listas_pilas_colas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1763758621 c:\users\angel\desktop\ayed\listas_pilas_colas\lista.h
+	"nodo.h"
+
+1763749342 c:\users\angel\desktop\ayed\listas_pilas_colas\nodo.h
+
+1763749342 source:c:\users\angel\desktop\ayed\listas_pilas_colas\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1763830417 source:c:\users\angel\desktop\ayed\listas_pilas_colas\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	"nodo.h"
+
+1763830288 c:\users\angel\desktop\ayed\listas_pilas_colas\cola.h
+	"nodo.h"
+
+1763834721 source:c:\users\angel\desktop\ayed\listas_pilas_colas\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1763825337 c:\users\angel\desktop\ayed\listas_pilas_colas\pila.h
+	"nodo.h"
+
+1763830417 source:c:\users\angel\desktop\ayed\listas_pilas_colastda\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+	"nodo.h"
+
+1763830288 c:\users\angel\desktop\ayed\listas_pilas_colastda\cola.h
+	"nodo.h"
+
+1763749342 c:\users\angel\desktop\ayed\listas_pilas_colastda\nodo.h
+
+1763850115 source:c:\users\angel\desktop\ayed\listas_pilas_colastda\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1763758621 c:\users\angel\desktop\ayed\listas_pilas_colastda\lista.h
+	"nodo.h"
+
+1763858071 source:c:\users\angel\desktop\ayed\listas_pilas_colastda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pila.h"
+	"cola.h"
+
+1763825337 c:\users\angel\desktop\ayed\listas_pilas_colastda\pila.h
+	"nodo.h"
+
+1763749342 source:c:\users\angel\desktop\ayed\listas_pilas_colastda\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+
+1763834721 source:c:\users\angel\desktop\ayed\listas_pilas_colastda\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
